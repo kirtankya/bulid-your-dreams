@@ -852,14 +852,17 @@
 
     .m19 {
         max-width: 300px;
+        height: auto;
         font-size: 20px;
         padding-top: 50px;
+        text-align: justify;
     }
 
     .m20 {
         max-width: 300px;
         font-size: 20px;
         padding-top: 20px;
+        text-align: justify;
     }
 
     .m22 {
@@ -1033,8 +1036,10 @@
 
     .m66 {
         max-width: 300px;
+        height: auto;
         font-size: 20px;
         padding-top: 20px;
+        text-align: justify;
     }
 
     .m67 {
@@ -1085,6 +1090,15 @@
         margin-top: 20px;
     }
 
+    .m96 {
+        width: 100px;
+        height: 100px;
+        background: url(Assets/493c4ba9faffae1d4d634b42d393f786.png)50% 50% no-repeat;
+        background-size: cover;
+        border-radius: 100%;
+        margin: auto;
+    }
+
     .m88 {
         font-size: 20px;
         color: #f4cb08;
@@ -1095,6 +1109,14 @@
         font-size: 20px;
         color: white;
         padding-top: 20px;
+    }
+
+    .m99 {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        padding-bottom: 50px;
+        text-align: center;
     }
 
     .m100 {
